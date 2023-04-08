@@ -1,4 +1,4 @@
 # REPOSITORIO-GITHUB
 realizando cambios
-realizando cambios 2
-Juan Miguel Rojas 2
+Cambios realizados por Christian
+Cambios realizados por Juan Miguel
