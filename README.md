@@ -1,9 +1,5 @@
 # REPOSITORIO-GITHUB
-realizando cambios
- JuanMiguelRojas
-este es un cambio tambien <!-- JuanMiguelRojas -->
-=======
-realizando cambios 2
- main
-=======
+Cambios realizados
+Cambios realizados por Juan Miguel
 Cambios realizados por Christian
+
